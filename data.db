@@ -1,0 +1,11 @@
+capacity(16).
+power(12).
+world_rows(3).
+world_cols(3).
+energy_locations([[1,1] ,[2,1] ,[3,1]]).
+gold_locations([[1,2]]).
+light_locations([[1,1] ,[1,2]]).
+weapon_locations([]).
+exit_locations([[3,3]]).
+wumpus_locations([[2,3]]).
+question(gold, [1,1]).
